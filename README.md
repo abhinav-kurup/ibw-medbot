@@ -1,5 +1,15 @@
 
-### Download the quantize model from the link provided in model folder & keep the model in the model directory:
+AI Medical Diagnosis Bot
+
+Overview
+
+This Python-based AI medical diagnostic bot uses a quantized Llama 2 model to help users identify potential diseases based on their reported symptoms. The bot provides a quick and accessible way to get preliminary medical insights.
+
+Features
+    Input symptom analysis using advanced AI
+    Disease prediction based on comprehensive medical knowledge
+    Quantized Llama 2 model for efficient processing
+    Endpoint for symptom-based disease prediction
 
 ```ini
 ## Download the Llama 2 Model:
